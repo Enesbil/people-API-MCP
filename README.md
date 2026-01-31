@@ -1,6 +1,6 @@
 # Crustdata MCP Demo
 
-A proof-of-concept MCP server for the Crustdata API. This exposes all of Crustdata's company, people, and web APIs as tools that AI assistants can discover and call.
+A proof-of-concept MCP server for the Crustdata API (based only on publicly available docs) . This exposes all of Crustdata's company, people, and web APIs as tools that AI assistants can discover and call.
 
 ## Quick note
 
